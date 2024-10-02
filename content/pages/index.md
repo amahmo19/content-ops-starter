@@ -59,7 +59,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      AiVertize helps you generate unlimited ad variations to test and find the
+      ones that resonate most with your audience, maximizing your revenue.
     items:
       - type: FeaturedItem
         title: 500k
