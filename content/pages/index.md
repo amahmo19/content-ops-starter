@@ -7,6 +7,9 @@ sections:
       text: Generate high-performing marketing videos with a single click
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 400
     subtitle: Subtitle goes here
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
